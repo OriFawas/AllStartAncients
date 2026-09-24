@@ -2,7 +2,7 @@
   "id": "AllStartingBonuses",
   "name": "All Starting Bonuses",
   "author": "OriFawas",
-  "description": "Unlocks all starting Ancient/Neow bonus options and adds a scrollable list with mouse wheel and controller support.",
+  "description": "Unlocks all starting Ancient bonus options",
   "version": "1.0.0",
   "has_pck": false,
   "has_dll": true,
