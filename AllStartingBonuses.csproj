@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>AllStartingBonuses</AssemblyName>
+    <RootNamespace>AllStartingBonuses</RootNamespace>
+  </PropertyGroup>
+
+  <!-- Set STS2_DIR to the directory containing sts2.dll and GodotSharp.dll. -->
+  <ItemGroup>
+    <Reference Include="sts2">
+      <HintPath>$(STS2_DIR)\sts2.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="GodotSharp">
+      <HintPath>$(STS2_DIR)\GodotSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <PackageReference Include="Lib.Harmony" Version="2.4.1" />
+  </ItemGroup>
+</Project>
