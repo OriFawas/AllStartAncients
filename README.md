@@ -6,10 +6,6 @@ A mod for **Slay the Spire 2** that unlocks every available starter bonus from t
 
 - **Full Option Pool**: Replaces the standard limited starter choices with each Ancient's complete `AllPossibleOptions` list.
 - **Configurable Ancient Selection**: By default, only unlocks all options for **Neow**. You can easily configure it to unlock all Ancients (Darv, Pael, Nonupeipe, etc.) or select specific ones.
-- **Scrollable Interface**: Automatically wraps options in a custom `ScrollContainer` when more than 3 options are present.
-- **Controller & Mouse Wheel Support**: Full support for mouse wheel scrolling and gamepad/keyboard focus navigation.
-- **Seamless UI Transitions**: Cleanly docks the `[ PROCEED ]` button at the bottom of the screen after picking a bonus.
-- **Save & Continue Compatible**: Seamlessly resumes from save files without visual glitches.
 
 ## Configuration
 
