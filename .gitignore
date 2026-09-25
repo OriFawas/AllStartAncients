@@ -3,6 +3,9 @@
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+release/
+*.zip
+package.ps1
 
 ## Visual Studio / VS Code
 .vs/
