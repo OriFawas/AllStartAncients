@@ -1,6 +1,6 @@
 # All Starting Bonuses
 
-A mod for **Slay the Spire 2** that unlocks every available starter bonus from the current Ancient (Neow, etc.) and provides a smooth, scrollable selection menu.
+A mod for **Slay the Spire 2** that unlocks every available starter bonus from the current Ancient (Neow, etc.)
 
 ## Features
 
